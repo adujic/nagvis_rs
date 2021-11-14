@@ -113,9 +113,7 @@
       <router-link to="/contact" class="col-md-1 ab-tab">
         <div class="row w3-small">
           <div class="col-md-11">
-             <!--
-            <font-awesome-icon :icon="contact" size="1x" class="icn" />
-            -->{{page_det.contact.tabName}}
+            {{page_det.contact.tabName}}
           </div>
         </div>
       </router-link>
